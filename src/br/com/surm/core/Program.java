@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * This class implements the notion of program to Unlimited Register Machine.
  * 
  * @author Valdigleis (valdigleis@dimap.ufrn.br)
- * @author INSIRA_SEU_NOME (INSIRA_SEU_EMAIL)
+ * @author Marcos Fontes (marcosfontesjp2001@gmail.com)
  * @version 1.0
  */
 public class Program {
